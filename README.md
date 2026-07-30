@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anushkachaudhari1001/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/anushkachaudhari1001/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [3894-traffic-signal-color](https://github.com/anushkachaudhari1001/leetcode_solutions/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
